@@ -1,0 +1,19 @@
+<configuration>
+  <!--MySQL数据库连接信息 -->
+  <property><!--连接MySQL的驱动类 -->
+    <name>javax.jdo.option.ConnectionDriverName</name>
+    <value>com.mysql.jdbc.Driver</value>
+  </property>
+  <property><!--MySQL连接地址，此处连接远程数据库，可根据实际情况进行修改 -->
+    <name>javax.jdo.option.ConnectionURL</name>
+<value>jdbc:mysql://192.168.1.69:3306/hive_db?createDatabaseIfNotExist=true</value>
+  </property>
+  <property><!--MySQL用户名 -->
+    <name>javax.jdo.option.ConnectionUserName</name>
+    <value>hive</value>
+  </property>
+  <property><!--MySQL密码 -->
+    <name>javax.jdo.option.ConnectionPassword</name>
+    <value>hive</value>
+  </property>
+</configuration>

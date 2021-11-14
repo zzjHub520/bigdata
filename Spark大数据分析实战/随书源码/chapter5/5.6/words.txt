@@ -1,0 +1,4 @@
+hello hadoop 
+hello java
+hello scala
+java
