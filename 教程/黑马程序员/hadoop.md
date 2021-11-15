@@ -1,0 +1,32 @@
+![image-20211115231742925](hadoop.assets/image-20211115231742925.png)
+
+![image-20211115231830386](hadoop.assets/image-20211115231830386.png)
+
+![image-20211115231915753](hadoop.assets/image-20211115231915753.png)
+
+### HDFS的应用场景
+
+![image-20211115232829075](hadoop.assets/image-20211115232829075.png)
+
+
+
+## HDFS的API操作 - 准备工作
+
+![image-20211116000932402](hadoop.assets/image-20211116000932402.png)
+
+![image-20211115222323748](hadoop.assets/image-20211115222323748.png)
+
+![image-20211116005305195](hadoop.assets/image-20211116005305195.png)
+
+![image-20211116005337724](hadoop.assets/image-20211116005337724.png)
+
+![image-20211116005558192](hadoop.assets/image-20211116005558192.png)
+
+![image-20211116005643381](hadoop.assets/image-20211116005643381.png)
+
+![image-20211116005742860](hadoop.assets/image-20211116005742860.png)
+
+![image-20211116005805922](hadoop.assets/image-20211116005805922.png)
+
+
+
